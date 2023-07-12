@@ -219,6 +219,9 @@ nav.navbar .navbar-toggler-icon:before {
 	z-index: 2;
 	transition: all 300ms linear;
 }
+.navbar h1{
+	color:white;
+}
 nav.navbar .navbar-toggler-icon:after {
 	top: 8px;
 }
