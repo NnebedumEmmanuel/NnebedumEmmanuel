@@ -52,8 +52,8 @@ export const Projects = () => {
       title: "To-do list",
       description: "An helps that helps u keep tab of your schedule",
       imgUrl: projImg6,
-      gitHubLink: "https://github.com/NnebedumEmmanuel/color-generator.git"
-      ,siteLink: "https://color-generator-sigma-five.vercel.app/?vercelToolbarCode=o9G_TriB0PkG_uh"
+      gitHubLink: "https://github.com/NnebedumEmmanuel/to-do-list-app.git"
+      ,siteLink: "https://to-do-list-app-mu-taupe.vercel.app/?vercelToolbarCode=5rg3dTg4fJJIcOs"
     },
   ];
 
