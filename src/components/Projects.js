@@ -24,8 +24,8 @@ export const Projects = () => {
       title: "Commercial Website",
       description: "A web app that provides interface for E-commerce",
       imgUrl: projImg2,
-      gitHubLink: "https://github.com/NnebedumEmmanuel/commercial-website.git"
-      ,siteLink: "https://commercial-website-kbyc.vercel.app/?vercelToolbarCode=6r1PP1vod1vnUPC"
+      gitHubLink: "https://github.com/NnebedumEmmanuel/commercial-website"
+      ,siteLink: "https://commercial-website-kbyc.vercel.app/?vercelToolbarCode=pZG2c3CFwj3bOZ5"
     },
     {
       title: "Weather-app",
