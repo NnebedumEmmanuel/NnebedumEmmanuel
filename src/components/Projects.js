@@ -1,8 +1,11 @@
 import { Container, Row, Col, Tab,  } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg1 from "../assets/img/weather.jpg";
-import projImg2 from "../assets/img/to-do app-main.jpg.png";
-import projImg3 from "../assets/img/estate-landing-page.jpg";
+import projImg1 from "../assets/img/tour-app.png";
+import projImg2 from "../assets/img/commercial-webapp.png";
+import projImg3 from "../assets/img/weather.jpg";
+import projImg4 from "../assets/img/estate-landing-page.jpg";
+import projImg5 from "../assets/img/color generator.png";
+import projImg6 from "../assets/img/to-do app-main.jpg.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -14,8 +17,8 @@ export const Projects = () => {
       title: "Tour webapp",
       description: "A webapp that helps you find the best tour",
       imgUrl: projImg1,
-      gitHubLink: "https://github.com/NnebedumEmmanuel/portfolio",
-      siteLink: "https://www.vercel.com"
+      gitHubLink: "https://github.com/NnebedumEmmanuel/tourisim-web-app.git",
+      siteLink: "https://tourisim-web-app-e26z.vercel.app/?vercelToolbarCode=FipMARXRX_TmOFl"
     },
     {
       title: "Commercial Webapp",
@@ -25,30 +28,30 @@ export const Projects = () => {
       ,siteLink: "https://www.vercel.com"
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Weather-app",
+      description: "A frontend interface for a weather app",
       imgUrl: projImg3,
       gitHubLink: "https://github.com/NnebedumEmmanuel/portfolio"
       ,siteLink: "https://www.vercel.com"
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg1,
+      title: "Estate landing page",
+      description: "A landing page for an Estate",
+      imgUrl: projImg4,
       gitHubLink: "https://github.com/NnebedumEmmanuel/portfolio"
       ,siteLink: "https://www.vercel.com"
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg2,
+      title: "Color Generator",
+      description: "An App that generates color",
+      imgUrl: projImg5,
       gitHubLink: "https://github.com/NnebedumEmmanuel/portfolio"
       ,siteLink: "https://www.vercel.com"
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
+      title: "To-do list",
+      description: "An helps that helps u keep tab of your schedule",
+      imgUrl: projImg6,
       gitHubLink: "https://github.com/NnebedumEmmanuel/portfolio"
       ,siteLink: "https://www.vercel.com"
     },
