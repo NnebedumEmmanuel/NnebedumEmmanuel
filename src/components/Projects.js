@@ -24,7 +24,7 @@ export const Projects = () => {
       title: "Commercial Website",
       description: "A web app that provides interface for E-commerce",
       imgUrl: projImg2,
-      gitHubLink: "https://github.com/NnebedumEmmanuel/commercial-website.git"
+      gitHubLink: "htthttps://github.com/NnebedumEmmanuel/commercial-website.git"
       ,siteLink: "https://commercial-website-kbyc.vercel.app/?vercelToolbarCode=6r1PP1vod1vnUPC"
     },
     {
