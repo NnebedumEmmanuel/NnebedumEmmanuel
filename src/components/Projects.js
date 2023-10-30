@@ -21,39 +21,39 @@ export const Projects = () => {
       siteLink: "https://tourisim-web-app-e26z.vercel.app/?vercelToolbarCode=FipMARXRX_TmOFl"
     },
     {
-      title: "Commercial Webapp",
+      title: "Commercial Website",
       description: "A web app that provides interface for E-commerce",
       imgUrl: projImg2,
-      gitHubLink: "https://github.com/NnebedumEmmanuel/portfolio"
-      ,siteLink: "https://www.vercel.com"
+      gitHubLink: "https://github.com/NnebedumEmmanuel/commercial-website"
+      ,siteLink: "https://commercial-website-kbyc.vercel.app/?vercelToolbarCode=pZG2c3CFwj3bOZ5"
     },
     {
       title: "Weather-app",
       description: "A frontend interface for a weather app",
       imgUrl: projImg3,
-      gitHubLink: "https://github.com/NnebedumEmmanuel/portfolio"
-      ,siteLink: "https://www.vercel.com"
+      gitHubLink: "https://github.com/NnebedumEmmanuel/weather-website.git"
+      ,siteLink: "https://weather-website-s6ux.vercel.app/?vercelToolbarCode=xzB5w1n_oeO0XqS"
     },
     {
       title: "Estate landing page",
       description: "A landing page for an Estate",
       imgUrl: projImg4,
-      gitHubLink: "https://github.com/NnebedumEmmanuel/portfolio"
-      ,siteLink: "https://www.vercel.com"
+      gitHubLink: "https://github.com/NnebedumEmmanuel/landing-page-for-an-Esate.git"
+      ,siteLink: "https://fbs-2-y82y-git-main-nnebedumemmanuel.vercel.app/?vercelToolbarCode=8t-W-Q0FUuLqXQW"
     },
     {
       title: "Color Generator",
       description: "An App that generates color",
       imgUrl: projImg5,
       gitHubLink: "https://github.com/NnebedumEmmanuel/portfolio"
-      ,siteLink: "https://www.vercel.com"
+      ,siteLink: "https://color-generator-sigma-five.vercel.app/?vercelToolbarCode=xfNj1QxT3MsUvyf"
     },
     {
       title: "To-do list",
       description: "An helps that helps u keep tab of your schedule",
       imgUrl: projImg6,
-      gitHubLink: "https://github.com/NnebedumEmmanuel/portfolio"
-      ,siteLink: "https://www.vercel.com"
+      gitHubLink: "https://github.com/NnebedumEmmanuel/to-do-list-app.git"
+      ,siteLink: "https://to-do-list-app-mu-taupe.vercel.app/?vercelToolbarCode=5rg3dTg4fJJIcOs"
     },
   ];
 
@@ -66,7 +66,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Projects</h2>
-                <p>These are some of my works, feel ree to check it out.</p>
+                <p>These are some of my works, feel free to check it out.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   {/* <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
